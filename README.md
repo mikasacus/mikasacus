@@ -1,1 +1,1 @@
-![](https://i.postimg.cc/DfGjDcqx/Screenshot-2023-08-14-152416.png)
+![](https://i.postimg.cc/Y9W35pmv/Screenshot-2024-09-26-011553.png)
