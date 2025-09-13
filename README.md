@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  can you guys please move on and grow up seriously thanks find something better to do with you lives
+  can you guys please move on and grow up seriously find something better to do with you lives im over the childish bullshit fig and lit im past whatever is going on leave me and my friends alone thanks
 </p>
