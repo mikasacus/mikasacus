@@ -5,3 +5,7 @@
 <p align="center">
   <img width="150" height="300" src="https://i.postimg.cc/7hPV3wbx/dbju1qh-b3a8ca09-f364-4b16-89bf-34491f3db042-3-2.png">
 </p>
+
+<p align="center">
+  can you guys please move on and grow up seriously thanks find something better to do with you lives
+</p>
