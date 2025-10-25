@@ -7,7 +7,8 @@
 </p>
 
 <p align="center"> 
-happy one year 😊 i love you so so much 💜
+what im trying to ask you is just..
+will you-.. be my girlfriend?-
 </p>  
 
 
