@@ -3,19 +3,14 @@
 </p>
 
 <p align="center">
-  <img width="350" height="350" src="https://github.com/user-attachments/assets/d14ea344-bc3a-4c5c-9cf1-0e238b11b3bd">
+  <img width="350" height="350" src="https://github.com/user-attachments/assets/7446a0c3-891b-4734-8b40-90d655c210db">
 </p>
 
 <p align="center"> 
-what im trying to ask you is just..
-will you-.. be my girlfriend?-
+☮︎ & ♡
 </p>  
 
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=espawxsbjn7fg4tahcsq6abpv&cover_image=true&theme=default&show_offline=true&background_color=7650af&interchange=false&bar_color=d25698">
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7446a0c3-891b-4734-8b40-90d655c210db">
 </p>
