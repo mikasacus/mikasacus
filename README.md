@@ -15,3 +15,6 @@
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=espawxsbjn7fg4tahcsq6abpv&cover_image=true&theme=default&show_offline=true&background_color=7650af&interchange=false&bar_color=d25698">
 </p>
+<p align="center">
+<img width="20" height="50" src="https://github.com/user-attachments/assets/b436aa8e-9fea-49eb-85b7-4241f75af71f">
+</p>
