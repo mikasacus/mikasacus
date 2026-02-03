@@ -1,5 +1,5 @@
 <p align="center">
-<img width="20" height="50" src="https://github.com/user-attachments/assets/b436aa8e-9fea-49eb-85b7-4241f75af71f">
+<img width="60" height="60" src="https://github.com/user-attachments/assets/63e0eaf3-c4bd-4488-9dca-bbfbc782703b">
 </p>
 <p align="center">
   <a href="https://open.spotify.com/playlist/6AQO10PoZ1bNNs9IAx8XWE?si=50904c59f4d6468d">
