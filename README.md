@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img width="350" height="350" src="https://github.com/user-attachments/assets/228d346c-6bf8-435a-8fff-fabb36b37260">
+  <img width="200" height="350" src="https://github.com/user-attachments/assets/b36fe949-eee4-4e0c-bebe-9f8ecf0ed837">
 </p>
 
 <p align="center"> 
@@ -16,5 +16,5 @@
 </p>  
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=espawxsbjn7fg4tahcsq6abpv&cover_image=true&theme=default&show_offline=true&background_color=7650af&interchange=false&bar_color=d25698">
+  <img  width="150" height="190" src="https://spotify-github-profile.kittinanx.com/api/view?uid=espawxsbjn7fg4tahcsq6abpv&cover_image=true&theme=default&show_offline=true&background_color=7650af&interchange=false&bar_color=d25698">
 </p>
