@@ -16,5 +16,5 @@
 </p>  
 
 <p align="center">
-  <img  width="150" height="190" src="https://spotify-github-profile.kittinanx.com/api/view?uid=espawxsbjn7fg4tahcsq6abpv&cover_image=true&theme=default&show_offline=true&background_color=7650af&interchange=false&bar_color=d25698">
+  <img  width="150" height="100" src="https://spotify-github-profile.kittinanx.com/api/view?uid=espawxsbjn7fg4tahcsq6abpv&cover_image=true&theme=default&show_offline=true&background_color=7650af&interchange=false&bar_color=d25698">
 </p>
