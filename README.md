@@ -6,17 +6,14 @@
     <img width="120" height="75" src="https://i.postimg.cc/7hPV3wbx/dbju1qh-b3a8ca09-f364-4b16-89bf-34491f3db042-3-2.png" alt="playlist" width="400"/>
   </a>
 </p>
-ㅤ
 <p align="center">
   <a href="https://fortnite.gg/cosmetics?id=22489">
     <img width="200" height="280" src="https://github.com/user-attachments/assets/cbc31462-c15a-4eea-bd3e-4685c7930d98" alt="playlist" width="400"/>
   </a>
 </p>
-
 <p align="center"> 
 ☮︎ & ♡
 </p>  
-
 <p align="center">
   <img  src="https://spotify-github-profile.kittinanx.com/api/view?uid=espawxsbjn7fg4tahcsq6abpv&cover_image=true&theme=default&show_offline=true&background_color=7650af&interchange=false&bar_color=d25698">
 </p>
